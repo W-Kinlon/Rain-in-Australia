@@ -179,7 +179,7 @@ drew_Histogram_of_fata(df=train,tag='前')
 ```
 
 
-![png](output_16_0.png)
+![png](https://blog.kinlon.work/2021/04/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Rain-in-Australia/output_16_0.png)
 
 
 
@@ -230,7 +230,7 @@ drew_Histogram_of_fata(df=dict_train['df'],tag='后')
 ```
 
 
-![png](output_20_0.png)
+![png](https://blog.kinlon.work/2021/04/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Rain-in-Australia/output_20_0.png)
 
 
 # 检查数字列异常值
@@ -268,7 +268,7 @@ drow_box_of_numerical(dict_data=dict_train,isAfter=False)
 ```
 
 
-![png](output_25_0.png)
+![png](https://blog.kinlon.work/2021/04/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Rain-in-Australia/output_25_0.png)
 
 
 
@@ -316,7 +316,7 @@ drow_box_of_numerical(dict_data=dict_train,isAfter=True)
 ```
 
 
-![png](output_30_0.png)
+![png](https://blog.kinlon.work/2021/04/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Rain-in-Australia/output_30_0.png)
 
 
 # 特征工程
@@ -604,7 +604,7 @@ plot_curve(res,test_y,'XGBClassifier')
 ```
 
 
-![png](output_46_0.png)
+![png](https://blog.kinlon.work/2021/04/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Rain-in-Australia/output_46_0.png)
 
 
 ## 随机森林回归
@@ -633,7 +633,7 @@ plot_curve(res,test_y,'RandomForestClassifier')
 ```
 
 
-![png](output_49_0.png)
+![png](https://blog.kinlon.work/2021/04/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Rain-in-Australia/output_49_0.png)
 
 
 ## 线性回归
@@ -662,7 +662,7 @@ plot_curve(res,test_y,'LinearRegression')
 ```
 
 
-![png](output_52_0.png)
+![png](https://blog.kinlon.work/2021/04/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Rain-in-Australia/output_52_0.png)
 
 
 ## SVC
@@ -727,7 +727,7 @@ plot_curve(res,test_y,'LogisticRegression')
 ```
 
 
-![png](output_58_0.png)
+![png](https://blog.kinlon.work/2021/04/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Rain-in-Australia/output_58_0.png)
 
 
 ## 梯度提升算法
@@ -789,7 +789,7 @@ plot_curve(res,test_y,'DecisionTreeClassifier')
 ```
 
 
-![png](output_64_0.png)
+![png](https://blog.kinlon.work/2021/04/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Rain-in-Australia/output_64_0.png)
 
 
 ## 贝叶斯
@@ -819,7 +819,7 @@ plot_curve(res,test_y,'GaussianNB')
 ```
 
 
-![png](output_67_0.png)
+![png](https://blog.kinlon.work/2021/04/25/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Rain-in-Australia/output_67_0.png)
 
 
 # 使用效果最好的模型进行预测
